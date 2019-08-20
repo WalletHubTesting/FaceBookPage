@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="97623" started-at="2019-08-20T07:44:44Z" finished-at="2019-08-20T07:46:21Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="97623" started-at="2019-08-20T07:44:44Z" finished-at="2019-08-20T07:46:21Z">
+      <class name="com.wallethubfacebook.tests.WalletHubFaceBookPagesTests">
+        <test-method status="PASS" signature="baseSetUp()[pri:0, instance:com.wallethubfacebook.tests.WalletHubFaceBookPagesTests@5e3a8624]" name="baseSetUp" is-config="true" duration-ms="17780" started-at="2019-08-20T07:44:44Z" finished-at="2019-08-20T07:45:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseSetUp -->
+        <test-method status="PASS" signature="faceBookStatus()[pri:1, instance:com.wallethubfacebook.tests.WalletHubFaceBookPagesTests@5e3a8624]" name="faceBookStatus" duration-ms="78813" started-at="2019-08-20T07:45:02Z" description=" Scenario 1 : Wallet Hub Test 2" finished-at="2019-08-20T07:46:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- faceBookStatus -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.wallethubfacebook.tests.WalletHubFaceBookPagesTests@5e3a8624]" name="tearDown" is-config="true" duration-ms="998" started-at="2019-08-20T07:46:20Z" finished-at="2019-08-20T07:46:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.wallethubfacebook.tests.WalletHubFaceBookPagesTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
