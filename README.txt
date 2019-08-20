@@ -43,7 +43,9 @@ Dependencies Added in to that project :
 					 2)base
 					 3)Pages
 					 
-	 ===>   config package has "config.properties" file which has data of browser name, url...	          				 
+	 ===>   config package has "config.properties" file which has data of browser name, url...	
+                Note : Give facebook user name and password in the config file.
+          				 
 	 ===>  "base" package have a class which contain the precondition method   - "driver initialization" (data value taken from "config.properties" file
 	 ===>  Pages package has a class which contains the methods of that particular webpage,webelements....(Total four method for four cases)
 	 
